@@ -1,6 +1,6 @@
 ﻿namespace FirstAssignment
 {
-    public class TierOneProbleFour
+    public class TierOneProblemFour
     {
         public static List<char> SolveT1P4(List<char> listOfCharacters)
         {
